@@ -1,5 +1,7 @@
 # Phase 3 -WK3 - Code Challenge: Articles - with database
 
+https://github.com/Abrahamkinuthia4723/Phase3---WK3-Code-Challenge-Articles---With-Database/assets/162336259/9926585f-9d39-4d88-8604-1ea8eac10adb
+
 In this code challenge, you will be working with a Magazine domain.
 
 We have three models: `Author`, `Article`, and `Magazine`.
